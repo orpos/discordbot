@@ -102,4 +102,4 @@ async def clear_error(ctx,error):
     if isinstance(error, commands.MissingRequiredArgument):
         await ctx.send('Por favor escolha um tanto de mensagens que deseja apagar')
 
-client.run('NzU0NTM2NDg5NjI2NTAxMTYx.X12K3Q.NqL7lWrUuGo8rggWaE0OkrHFeGE')
+client.run('NzU0NTM2NDg5NjI2NTAxMTYx.X12K3Q.NqL7lWrUuGo8rggWaAsfFFeGE')
